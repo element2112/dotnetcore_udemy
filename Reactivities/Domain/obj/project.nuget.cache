@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2zRycp01DjxO14oEb9OckCjaeVRrisOYAgol4UQvHzeCGcALmFapk68/AvZCtjgo5Ap54de5A3VwKCaxKjItw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bs009\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bs009\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
