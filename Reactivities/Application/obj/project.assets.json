@@ -1321,19 +1321,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bs009\\.nuget\\packages\\": {}
+    "C:\\Users\\torchgirl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\bs009\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Application\\obj\\",
+      "projectPath": "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\torchgirl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bs009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\torchgirl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1346,11 +1346,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

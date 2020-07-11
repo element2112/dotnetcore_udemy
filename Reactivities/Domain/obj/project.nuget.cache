@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2PHPXF6HRZlylwfvWhgEe+jaI/mkMm2DU0j4aiT9i7BVD+FGb9nq7zMpad2YIm6ZXlg9ZEG4ZT+WDxCBnu0ZQ==",
+  "dgSpecHash": "VaD2x4fbTEPpr84K2z5mJD7fr+idqpM4qWhUg+8bpeMexSX6URWV6xuwlwc073Y7gj5VlUBa7a8uIKEa/rBIRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bs009\\Desktop\\udemy_dotnetcore_mvc\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\torchgirl\\Desktop\\udemy_dotnet\\dotnetcore_udemy\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
